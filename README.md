@@ -1,4 +1,4 @@
-#  Prediction de l'Espérance de Vie & Prix Immobilier – Pipeline MLOps Reproductible
+# Système MLOps d’estimation des prix immobiliers
 
 <!-- [![CI Workflow](https://github.com/votre-user/mlops-house-price/actions/workflows/ci.yml/badge.svg)](https://github.com/votre-user/mlops-house-price/actions)
 [![Python Version](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
